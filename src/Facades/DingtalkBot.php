@@ -1,6 +1,6 @@
 <?php
 
-namespace U9\DingtalkBot\Facades;
+namespace Uuu9\DingtalkBot\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

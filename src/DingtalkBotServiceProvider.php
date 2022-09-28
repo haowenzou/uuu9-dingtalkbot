@@ -1,6 +1,6 @@
 <?php
 
-namespace U9\DingtalkBot;
+namespace Uuu9\DingtalkBot;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -20,7 +20,7 @@ class DingtalkBotServiceProvider extends ServiceProvider
     public function register()
     {
         $this->app->singleton('dingtalkbot',function(){
-            return $this->app->make('U9\DingtalkBot\DingtalkBot');
+            return $this->app->make('Uuu9\DingtalkBot\DingtalkBot');
         });
     }
 }

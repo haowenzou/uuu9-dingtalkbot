@@ -1,6 +1,6 @@
 <?php
 
-namespace U9\DingtalkBot;
+namespace Uuu9\DingtalkBot;
 
 use Carbon\Carbon;
 use Illuminate\Support\Facades\Log;
@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Config;
 /**
  * Class DingtalkBot
  *
- * @package U9\DingtalkBot
+ * @package Uuu9\DingtalkBot
  */
 class DingtalkBot
 {
