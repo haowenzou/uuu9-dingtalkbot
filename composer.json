@@ -1,0 +1,16 @@
+{
+    "name": "uuu9/dingtalkbot",
+    "description": "Dingtalk Bot 钉钉聊天机器人",
+    "authors": [
+        {
+            "name": "zhw",
+            "email": "980334125@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+	      "Uuu9\\DingtalkBot\\": "src/"
+	}
+    },
+    "require": {}
+}
